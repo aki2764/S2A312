@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang ="ja">
+  <head>
+    <meta charset = "UFT-8">
+    <meta name="description" content="カフェ ムーンライトは宮城県仙台市にある、少しレトロな雰囲気のある落ち着いたカフェです。">
+    <title>カフェムーンライト | 宮城県仙台市のレトロカフェ</title>
+      <link rel="stylesheet" href = "style.css">
+  </head>
+  <header>
+    <nav>
+      <ul>
+      <li>ごあいさつ</li>
+      <li>メニュー</li>
+      <li>アクセス</li>
+      </ul>
+    </nav>
+  </header>
+<main>
+  <h2>落ち着いた空間でくつろぎのカフェタイム</h2>
+  <p2>カフェムーンライトは少しレトロな雰囲気の落ち着いたカフェです。</p2>
+  <p2>優しい照明とレコードの音がくつろぎの時間を演出します、是非お気軽にお立ち寄りください。</p2>
+  <h2>おすすめメニュー</h2>
+</main>
